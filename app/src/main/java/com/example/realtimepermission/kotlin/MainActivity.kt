@@ -1,4 +1,4 @@
-package com.example.realtimepermission
+package com.example.realtimepermission.kotlin
 
 import android.Manifest
 import android.app.AlertDialog
@@ -6,6 +6,7 @@ import android.content.pm.PackageManager
 import android.os.Bundle
 import androidx.annotation.NonNull
 import androidx.appcompat.app.AppCompatActivity
+import com.example.realtimepermission.R
 
 class MainActivity : AppCompatActivity() {
 

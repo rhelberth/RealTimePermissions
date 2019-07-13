@@ -1,4 +1,4 @@
-package com.example.realtimepermission
+package com.example.realtimepermission.kotlin
 
 import android.app.Activity
 import android.content.pm.PackageManager
